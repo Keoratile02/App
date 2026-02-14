@@ -20,7 +20,7 @@ A Flutter app that allows students to **book, view, and manage consultation appo
 
 Clone the repo:
 
-git clone 
+git clone  https://keoratile02.github.io/App/
 
 
 
