@@ -1,16 +1,31 @@
-# firebase_flutter
+# 📝 Student Consultation Booking App
 
-A new Flutter project.
+A Flutter app that allows students to **book, view, and manage consultation appointments with lecturers**. The app supports **student and admin roles**, Firebase authentication, and Firestore database integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Features**
 
-A few resources to get you started if this is your first Flutter project:
+- Student registration and login  
+- Admin registration and login  
+- Book consultation slots with lecturers  
+- View, edit, and delete bookings  
+- Real-time Firestore integration  
+- Role-based navigation (Student vs Admin)  
+- Responsive UI for mobile and web  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **Getting Started**
+
+Clone the repo:
+
+git clone 
+
+
+
+
+
+
+
+
